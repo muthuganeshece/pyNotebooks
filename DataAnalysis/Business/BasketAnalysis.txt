@@ -1,0 +1,49 @@
+/************* Data Preparation ******************/
+- Categorise products
+
+
+/************* Product wise analysis *************/
+- Inputs: Product
+- Fast moving products
+	- Identify monthly average sale for past 1 year
+	- Compare with other products and segregate fast, medium and slow moving products
+	- Predict upcoming need and restock
+	
+- Slow Moving products
+	- Identify potential customer of the product
+
+- Categorise products based on expiry
+	- group products based on usage 
+	- For ex: vegetables/fruits - < 1 week
+	- Toileteries - < 1 Month
+	- Dress/utensils - Indefinite
+	
+
+
+/************* Customer wise analysis ************/
+- Inputs: Customer, Product
+- Buying behavior
+- Product missing in basket
+	- Take current month as reference
+	- Compare with previous months what products are missing in the current month
+	- High priority for products purchased multiple times in the previous month but not in current
+	- Also check whether customer purchases a competitive product
+	- Reduced quantity also needs to be considered
+- Identify disinterested customer
+	- 
+	
+/************** Seasonal Analysis ****************/
+- Inputs: Date, Product
+- Identify seasoned products
+	- stock it only based on the historical data
+	
+	
+/************** Regional Analysis **************/
+- Inputs: Address, Product
+- Increase/Decrease in sale on a particular region
+	- Identify the top most products sale 
+	- Identify the bottom most products sale
+	
+/************** General ************************/
+- Inputs: Price, Quantity
+- Sales data for each month
