@@ -17,7 +17,8 @@
 	- For ex: vegetables/fruits - < 1 week
 	- Toileteries - < 1 Month
 	- Dress/utensils - Indefinite
-	
+- Market Basket Analysis
+	- Product Recommendation
 
 
 /************* Customer wise analysis ************/
@@ -30,7 +31,7 @@
 	- Also check whether customer purchases a competitive product
 	- Reduced quantity also needs to be considered
 - Identify disinterested customer
-	- 
+
 	
 /************** Seasonal Analysis ****************/
 - Inputs: Date, Product
@@ -47,3 +48,4 @@
 /************** General ************************/
 - Inputs: Price, Quantity
 - Sales data for each month
+
