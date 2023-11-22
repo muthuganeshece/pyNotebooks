@@ -4,10 +4,12 @@
 
 /************* Product wise analysis *************/
 - Inputs: Product
+- Identify fast, medium and slow moving products
+- Predict upcoming need and restock
+- Identify monthly average sale for past 1 year
+	- Average per day sale
 - Fast moving products
-	- Identify monthly average sale for past 1 year
-	- Compare with other products and segregate fast, medium and slow moving products
-	- Predict upcoming need and restock
+	- Compare with other products and segregate fast, medium and slow moving products - Done
 	
 - Slow Moving products
 	- Identify potential customer of the product
