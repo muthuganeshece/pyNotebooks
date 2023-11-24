@@ -8,12 +8,16 @@
 - Predict upcoming need and restock
 - Identify monthly average sale for past 1 year
 	- Average per day sale
+	:::::::
+	- Monthly sale vs No of Days in a month
+	::::::: Ignore months data ['2011-3' '2011-4' '2011-7' '2011-8' '2011-12' '2014-10' '2014-11']
 - Fast moving products
 	- Compare with other products and segregate fast, medium and slow moving products - Done
 	
 - Slow Moving products
 	- Identify potential customer of the product
 
+/*************** Transactions wise analysis ******/
 - Categorise products based on expiry
 	- group products based on usage 
 	- For ex: vegetables/fruits - < 1 week
