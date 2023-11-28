@@ -10,7 +10,8 @@
 	- Average per day sale
 	:::::::
 	- Monthly sale vs No of Days in a month
-	::::::: Ignore months data ['2011-3' '2011-4' '2011-7' '2011-8' '2011-12' '2014-10' '2014-11']
+	::::::: Ignore months data as the no of data is less['2011-3' '2011-4' '2011-7' '2011-8' '2011-12' '2014-10' '2014-11']
+- Identify weekly average sale
 - Fast moving products
 	- Compare with other products and segregate fast, medium and slow moving products - Done
 	
